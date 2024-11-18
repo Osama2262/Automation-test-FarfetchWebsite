@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "Otest":"npx playwright test --project=chrome ",
     "test:chrome": "npx playwright test  --config= playwright.config.js  --project=chrome"
   },
   "keywords": [],

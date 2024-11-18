@@ -46,13 +46,13 @@ test.describe('My Test Suite', () => {
 
  //          **Login with Valid Credentials (skipped for now)**
 
-    test.skip('TC003: user can login with valid condition', async () => {//                   [ (💎*Done*💎) ]
+    test.skip('TC003: user can login with valid condition', async ({page}) => {//                   [ (💎*Done*💎) ]
         await page.locator('[title="Sign in"]').click();
         await page.locator("//input[@type='email'and@data-testid='slice-login-email-input']").fill("test0001@gmail.com");
         await page.locator("//input[@name='password']").fill("Test@&3333");
         //await page.getByTestId('slice-login-remind-checkbox').check();
         await page.getByRole('button', { name: 'Sign In' }).click();
-        await page.waitForTimeout(6000);
+        await page.waitForTimeout(60000);
         await page.context().storageState({ path: 'user_auth.json' });
         await page.close();
     });
@@ -61,6 +61,7 @@ test.describe('My Test Suite', () => {
 //                  **Add Items to Cart**
 
     test('TC004: add items to the cart', async ({ page }) => {//                   [ (💎*Done*💎) ]
+        await page.waitForLoadState();
         await page.locator("//a[contains(.,'Menswear')]").click();
         await page.getByRole('button', { name: 'Shoes' }).dblclick();
         const all_category = await page.getByTestId("productCard");
@@ -75,7 +76,7 @@ test.describe('My Test Suite', () => {
         await first_size.click();
 
         await button.click();
-        await page.waitForTimeout(1000);
+        await page.waitForTimeout(10000);
     })
 
 
@@ -158,15 +159,13 @@ test.describe('My Test Suite', () => {
                     await page.getByTitle("Bag").click();
                     let num = counter;
                     while (num--) {
-        
                         await page.getByTitle("Remove").last().click();
                         await page.waitForTimeout(2000);
                         if (num == 1) {
                             await page.waitForTimeout(2000);
-                            await page.getByTitle("Remove").first().click();
-                            
+                            await page.getByTitle("Remove").first().click();  
+                            break;
                         }
-                        
                     }
                   //  isHidden = false;
             //    await expect(await page.locator("[data-testid='empty-bag-default-description']").isVisible());
@@ -177,7 +176,7 @@ test.describe('My Test Suite', () => {
             };
             await page.waitForTimeout(1000);
             const last_check = await page.locator( "//a[@title='Bag']//span[@data-testid='counter']").isHidden();
-            console.log("♣  No item left  ♣ ='"+ last_check+"'");
+            console.log("♣ No item left ♣ => '"+ last_check+"'");
         
     })
 
@@ -226,11 +225,11 @@ test.describe('My Test Suite', () => {
                     await page.waitForTimeout(2000);
                     await page.locator("//button[@data-testid='wishlistCard-removeButton']").last().click();
                 }
+            }
             if (num == 1) {
                 await page.waitForTimeout(2000);
                 await page.locator("//button[@data-testid='wishlistCard-removeButton']").first().click();
                 await page.waitForTimeout(6000);
-            }
             }   
         }else{
             console.log("---------------------------------");
