@@ -8,7 +8,7 @@ const config = {
   timeout: 60000,
   //reporter: './Reporter.js',
   use: {
-    headless: false,
+    headless: true,
     video:'off',
     viewpoint:{ width:1920, height:1080  },
     //launchOptions: { args: ['--start-maximized']},
