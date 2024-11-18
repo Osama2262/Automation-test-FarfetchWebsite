@@ -1,0 +1,48 @@
+//                      **Change Quantity of item**  
+    test('TC006: Change Quantity of item', async ({ page }) => {
+        
+        const text = await page.textContent("//a[@title='Bag'] //span[@data-testid='counter']"); 
+        const counter = Number(text);
+        if (counter >= 1) {
+            await page.getByTitle("Bag").click();
+            await page.waitForTimeout(5000);
+            const itemGroupElements = await page.$$('[data-testid="itemGroup"]');
+            const itemCount = itemGroupElements.length;
+
+                for(let i =itemCount;i>0;i--)
+                {
+                    await page.getByTestId("itemGroup")
+                    const currentItem= await page.getByTestId("itemGroup").nth(i);
+                    const Last_check = await currentItem.getByTestId("item-lastOne").isVisible();
+                    if(Last_check)
+                    {
+                        
+                        continue;
+                    }
+                    else{
+                        
+                        const Select1Item = await page.getByTestId("item-quantity-actionButton").first();
+                        await page.evaluate(() => {
+                            window.scrollBy(0, 1000); // Scroll down by 1000 pixels
+                          });
+                        Select1Item.click();
+                        const Quantity =await page.locator('[data-testid="item-quantity-dropdown"]');
+                        if (Quantity.getAttribute("value='1'")) {
+                            Quantity.click();
+                            await page.waitForTimeout(4000);
+                             await page.getByTestId('option-2').click();
+                             }else {
+                                Quantity.click();
+                                await page.waitForTimeout(4000);
+                                await page.getByTestId('option-1').click();
+                         }   
+
+                    }
+                }
+                
+            }
+            else {
+                test.fail();
+                console.log("The bag Does not have any items yet");
+        }
+        

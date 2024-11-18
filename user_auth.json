@@ -1,0 +1,1365 @@
+{
+  "cookies": [
+    {
+      "name": "BIcookieID",
+      "value": "a0e1c92f-7234-4ef1-aeaf-7d9ce4244999",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906201.422517,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ckm-ctx-sf",
+      "value": "%2Fsa",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1731938192.15152,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BISessionId",
+      "value": "daeef10f-6354-f7f8-8347-1f1b0610b73d",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ffcp",
+      "value": "a.1.0_f.1.0_p.1.0_c.1.0",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1760882202.895595,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABProduct",
+      "value": "",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729367804.413256,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABListing",
+      "value": "",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729367804.413344,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABGeneral",
+      "value": "",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729367804.413404,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABLanding",
+      "value": "",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729367804.413442,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABCheckout",
+      "value": "",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729367804.413473,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABRecommendations",
+      "value": "",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729367804.413507,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABReturns",
+      "value": "",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729367804.413539,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABWishlist",
+      "value": "",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729367804.41357,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-CSRF-TOKEN",
+      "value": "CfDJ8BZV7bSK_gVKoJ5_tFR15T6LO3CmAB-kBkGTeY0Qj7aiqp7RYuJ1T-aVikVfOMTQ6MLdOCER0Sq17HUvDJ0pgPgfpquAlpj7M5doegmiDLTxgZe-KuhbI_-8pEXtKClVAMtIRqeZA800E6aizuliyKU",
+      "domain": "www.farfetch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Host-FF.AppSession",
+      "value": "CfDJ8BZV7bSK%2FgVKoJ5%2FtFR15T5v84ct%2FPeQh6GZUtf1HVGFlZ4RM1ijzP1Ou2gArs85%2B2jTDmsip8fsHpVsBvV6l0KvHFtuyAoL9Pv1otojHD%2BbWMpclWnC8ajLIE21nIlzUbSKXWvjJ3v8EgxnbuIWX4%2FdYUfPq%2FFY5FTQzR3tI3Pe",
+      "domain": "www.farfetch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "checkoutType2",
+      "value": "4",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1760882202.895842,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session-1",
+      "value": "daeef10f-6354-f7f8-8347-1f1b0610b73d",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906195.946782,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ff_newsletter_pv",
+      "value": "1",
+      "domain": "www.farfetch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.LBPJIxfhNM3kfhhbYGx%2B3%2Fo0Td%2B1sV7QV86pWZgLPxU%3D.1729346197",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906203.882605,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "tYTI%2FqpX%2BLkq88iywNey6ATgKVaEKoclOIHba3Ecti3aYWT8g%2FMdky505Pcc4iBtEuqrYxQCqTggcIASXGNvfBlqCcXywq5M6ViVr%2BTl3EmpR6qCmHhoKhvy41bqwg%3D%3D",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729418197.248987,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.2.1777688463.1729346183",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1737122196.909578,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "value": "36BA853D83BE0DFBABFA7F1010D18A1D~000000000000000000000000000000~YAAQLuoWAtwsmnGSAQAAc6EQpRmGX0uZM91qh7GklPf6aBg4v5xYAW6JCx7SIng1YFJy2/zGnCt077sqeKnCfkzWLLupzD1nrIjX/1SeuidC6c1KN2ya1z+YlYwuSYeUNbgX/YHEYND6L3KDzvH09im3dHin5wNq1zMS9qXjJbk+L6O+2WdEBRO2h7NE4Phgi/y/0Rvj7m7X078O4WJ48+75G9+LxqvGZtOjZk/nNjTVvb2iagvr0k+ioPZ/rQ80tHFaDQpzgrl7436DN+Lrzm4VeSaXUbqVifd+w5rAedb/5TBQf0Tg/RalgbD3umoVGk8IrzG48GNld+nsmrsC8jWDnrjyN5bOzMiLnaEjxtXVLcAW+F1gUqTuOpg6pGnYef8H8nxoO+WHTfza+qEclI8+9CXe0BvaHwyAW04M3XPlQe0wXw774r15QgaXmN9bYO7ulveqSKUNkBQOFYbtew==",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729353392.538024,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1879637898.1729346198",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1737122198,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_mk",
+      "value": "0.2763668634203915_1729346197903",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729347997,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rskxRunCookie",
+      "value": "0",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906203.425952,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rCookie",
+      "value": "5ybbqj5wy7i9trh9hzhomrm2g82qzo",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906205.110357,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uid",
+      "value": "8ac305b9-e269-4efe-a662-019e81c3e54d",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1763042199.142373,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "193DB49A344362BF34B6A187353F631B",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1763042206.077084,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "76a1afa757364227ae89ca2547b1df77",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906204.128076,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzI5MzQ2MTk5OTY4LFwidW9cIjoxNzI5MzQ2MTk5OTY4LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjc2YTFhZmE3NTczNjQyMjdhZTg5Y2EyNTQ3YjFkZjc3XCJ9In0=",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906203.933647,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1729346199969",
+      "domain": "www.farfetch.com",
+      "path": "/",
+      "expires": 1763906199.970513,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-FF.AppCookie",
+      "value": "CfDJ8BZV7bSK_gVKoJ5_tFR15T6K_9q6twN5ti5QjUd3kh9xCRn_BEi7CPTAc9KnkjZyAO7VflmZ66IDin5lbHr6tcJ6-pQVfS9ReAkE0NEK_R-ta_EU_t-4XZNhlWjSRTkPRWRR6E9CL9fRvUcU2y4VhsLjGM5dPJie-oUie2cHafaqqI_ia_e5zklfHQ45dSHzf8-CyTOycYdTBHS_BaZ2RreUOjHIUaDmhmPzMqywAbwU634HfLUQXPOYugEXzqDVlYzZVH6zv5SY5t4lZmpZ7VI6lN4iOKmJXsoI_KeqTJ23qYGjkp0Bqj0weeVqi0TJKsPTFgVYShdwGR_s9aWBqFxzIhxB9zkFLUK3SnlkQPFF",
+      "domain": "www.farfetch.com",
+      "path": "/",
+      "expires": 1763906201.421999,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_l",
+      "value": "1",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906201.422051,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ub",
+      "value": "6FBA165F8B538AFFC9337AC0E8B20FE3",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1732024602.895753,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_abck",
+      "value": "9809232EC2F5E625C35FD3E5337C9E74~0~YAAQLuoWAgctmnGSAQAAn7AQpQyt0gz54scb5u/ST3J3XjSmh149JsE4VHuwuQNxsTLl3inPkWgL/6pGpI9ZDjFN/1t9gzHvqtBf2Wk9dMNSiA5tVPIb3AuYA5l3D2bAk/r3DG9WEm1C4PMgdLkoLJkx4MlfSzJu4xw/V9t0/MxOLL1MWq0efsH7PQk/caLjoiEwGzvZxURKkOqIOvly74jW+Hap4wtQ99Zvkg9QKWpPet6zxnYnRUnjZcPnUbWz+K2DxuulO9yrnsXiKu2hIyU66oNywraDlSA/5WZup6DszcDVXhE/dQr2zqUgAtww1Gsrvfu/e5ycrJHBM+vBUjaLWf5S2y3Pyh3VmjGF6S63qvipih5s3I0GaAqoRrbwmzGS5HSNWcSUo8oUXs5Vztj7p6HmQOkvhhzzXgtC5G6GdxiLgMtl9G6EkKzDSmtj5hI9dsfeBUbCW3bFmpxmFizwZjRZFUE2U3Vfg5Rs3f6sDOmItf8Lzfe1BM6DzJ+jVyDNLSyYOGz7AAk+dMiiOwhZuiF9o2ys0KKK0gUy8LgKjV8Id3VcR60x2DuOsMTVPdwAPuNBk5tqMNkNXa2Pp0nY+3ebHObx97wbaqO+ZLMxlFnkrx7d~-1~-1~-1",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1760882201.422601,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729348001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1853802398.1729346202",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729432603,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-3819811-6",
+      "value": "1",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729346261,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sz",
+      "value": "D4BA3B4B0584EB93CDC89E6EA54A03B2~YAAQLuoWAg4tmnGSAQAAZLIQpRmWLck2vRYbz1bUc9ZfqPrjq3TG2QpL9tHCzQijsTV7TtheOCzaBroWGEuz7/SkV948dogxOueetgqPyueJHyluRG24j4epJLCB8Mmz765Z8wZIDyGzmNd2oCp9moZFtoYGQ5SRP8HGU0qsH/udsiU3WR+dXj4yyLWzBhNjCEbzcKf+YGY7GFOiW7on8/AT+pJEmPc3LsGi1OLsY5+dLy19um7IgRuItB1IZwz/iOqcSu7FAAAuE3Qbgs0bUZB8eFR9RF5VKMe03xKJRoTuDrJ8PNGRElzhXrrHs79DyTUNJr3REC97WKdXHZHpPBC+8pIW62iqnTorfZUQgSkBhq0yuV7uU6CQoMQ6XmyKZI3UvdvWUpZ/xqT0Rq3fjZ27rjHeM4y0i0+0~3687224~4338737",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729360592.897702,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729353401,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MSPTC",
+      "value": "tka7YR5WgTEQdf7UFltAQZYaFxPMx6bBTEZDF4zAw2I",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1763042202.196062,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cuid",
+      "value": "f153d3700003451991a43c86aa1bb03b",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906203.320386,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "RT",
+      "value": "\"z=1&dm=www.farfetch.com&si=21357777-bd4b-4d27-a7dc-6fe8e356d2a1&ss=m2g82lsv&sl=2&tt=5t9&bcn=%2F%2F0217991c.akstat.io%2F&rl=1&ld=8os\"",
+      "domain": ".www.farfetch.com",
+      "path": "/",
+      "expires": 1729951003,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lastRskxRun",
+      "value": "1729346203424",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906203.425663,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_HLS8C90D41",
+      "value": "GS1.1.1729346196.1.1.1729346203.0.0.337803387",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906203.476358,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_CEF7PMN9HX",
+      "value": "GS1.1.1729346199.1.1.1729346203.56.0.0",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906203.644305,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1001170741.1729346197",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906203.683443,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUleCEZ7_ElXR4wXc4OZ-ve204aQeyefqxtOLTWYcPAAj97PVGTtB1jnlqgcxNA",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1763906203.823775,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__attentive_domain",
+      "value": "farfetch",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729951003,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ceid",
+      "value": "Qof",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729951003,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "f642fe608e2111ef813c193f58b44f3c",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729432603,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "f64322808e2111ef8340f9c289ce18b7",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763042203,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "2",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729348004,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bundle",
+      "value": "EznbN19TRFZ6SUhrZ24lMkYwQ2doUVpPY2FpemRvNGRhc0ExODRKJTJGSDUlMkZOQ1RzZ2dQTEVhWWFjcFR5b2FhY25TVEgwYmpDM0N6RzZ1UlZFNk14a2RuWlp1RDN5cGtaWUtvRFJ5eDMyNkd6Q1pNdXMySGxSWEtROVMlMkJuR1Zhc2xUU01kMkdTcmRIbTBvV1Nhb25GMzh0Q2RZaVk3OVZWVDgzJTJCOHVGb0dSOUo3MURnZWRNJTNE",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763510204,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1744898204.509331,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_R/j5FxjDhM6tEergcE1P7w==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1763906204.339947,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "muc_ads",
+      "value": "bc43b5b5-9fbf-4553-a5bd-923bbaae5f34",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1763906204.379525,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "ekzZvmNpBJ5DQkAMdfNvriP1RkICrWGc7RfxSnNqw1M-1729346190-1.0.1.1-.xEbCuvjLnPlW8wOKlgUgr3_cwUzkZHE.29V4aV3IUBExEYDlPdMh8jMNjEerr0q3LPm6l1B7WhmQ52Od3Xjog",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1729348004.379588,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1731938204.888351,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-CSRF-REQUEST-TOKEN",
+      "value": "CfDJ8BZV7bSK_gVKoJ5_tFR15T6gujq0HblULxlef6zPjnOL-izFLZQHZAqb8b33Cm40BL-h5bvjNeeMcZ35sadMGTS3rD88ozgwq1DLx79nx9gqjFn27twV4Nj7osExUBRuOHZW-esU8hurdSYfeqt6p1B10aMfserDlk-lOrV9hZq8VlpHVJxaIrxjhOieTqInBw",
+      "domain": "www.farfetch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AkamaiFeatureToggle",
+      "value": "018db4.1_02a57c.1_0357f7.1_039afe.-1_04154b.1_062eab.1_06510b.0_0970d2.0_0a3efc.1_0f6c2f.431765611_169781.1_1af61f.-1627644200_1d8e03.1_20b92f.-1_247006.-1_26ddb8.1_2ba087.2_317bfa.-555864285_3aa8d2.0_3c8089.2_4247d8.-210644093_45dc7d.1_48259b.1_4d76c8.2_4f9348.351382932_56f7db.-1_57c99f.-324115_5a000f.1_5a745a.-1_5dbd1a.-1_5edc51.-1959550240_603919.1_64d19c.1_677d5c.351382932_69fd46.1_729a35.1_751ef1.-1_7723fd.-1_7cf0c5.-1_80b0df.1_81160a.351382932_82b66e.-1_8c3210.-1_8c4007.-1_945679.1_95b01e.-1_999fce.1_9a710c.1_9d8620.-257072075_9ebcf7.1_9f0eda.0_a0e87f.-1698781401_a27c87.1952121051_a54601.1_a7e49d.351382932_ab571f.1_ac4767.-836661740_ac992b.1_af169b.-464186005_b425b4.2023427498_b45ee1.1_b833c7.535845473_b8e9db.-1_b90715.0_bf110c.649816999_bfc591.1_c06844.-1_c0ba66.-900375819_c2155c.1_c5e8eb.351382932_c6215a.-1_c7adc2.619131285_ca11bd.-201902225_ca47d2.-2125519295_cfc1ba.1_d26d24.1_d2d2fd.2088696188_d47781.-1_d59758.1_da4cdf.1_dab09d.632075632_db79f1.2_dd19ed.-1_deb641.-1_dec9f3.-1_df039e.-1_df93a0.1_e7eec4.1_e89c2a.1_e8a8b6.-1_ebf8c9.-1_ed07fa.0_ed8d9e.1_f02dd6.231688310_f220ef.-1_f3db94.1_f5969a.-1_f8c66b.1_fb273c.-1_fb2b96.1_fb99aa.1171797472_fbf4d6.1_fdd39e.800640742",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729367804.41364,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "value": "2F48CDD2BA147A377C418B8C7B98CB56~YAAQLuoWAjgtmnGSAQAAT7wQpRkU/TBJN5nkBqv1qzaYKOE+7g7yCScTjeXMTG85cwvKiN/31/eQu5ZXjUV13dWgcx0V3eSQgNL6gE5EM7NBVYzzm48vcIqIuMBHCrlLDCmI5ODQ2B7d6LMJS0ZViRPyjRhfVzW9lEddIRI68iqpki7Sxz2Fsn13zCdASvhnvYjjNGN5HYdEk5W7Y3pGZFB27mA20TrnRLK55QpDWmPfkhEdZMSCOVWSlrFvMUmmly4=~1",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1729353397.413676,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": "measurement-api.criteo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "eb8cfe6f-04e9-4cfc-b4cd-398fcb03aaee",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1760882204.763593,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1729346190",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1760882204.644446,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1729346190",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1760882204.763691,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "N7n6XfweQx1vUH3jpA1vg67W3RXCMrBrWTrZGe7scnzvTyzEouBs4meK2ykAkCyfeH7Ac91Xwz3FahlGget_jd3C3BtrT0z3M011x7Bl4cE.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1737122205.254485,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1763906205.254591,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "6827350035030734271",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1737122205.254628,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "value": "6003001457266648271",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1763560605.661511,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "value": "ok",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1763560605.661591,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csync",
+      "value": "79:k-ffoO6HryXMllPyG26jvsJkerBKJ-KybrhqQdjw",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1760882205.661624,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ayl_visitor",
+      "value": "b1be2c2613f52118505b09271cf27c44",
+      "domain": ".omnitagjs.com",
+      "path": "/",
+      "expires": 1731938204.66864,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_gid",
+      "value": "f461b1f4-cb3a-40d0-a997-abe36ef8cb6c-tucte0d400e",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1760882204.716078,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_pt_gid",
+      "value": "f461b1f4-cb3a-40d0-a997-abe36ef8cb6c-tucte0d400e",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1760882204.716149,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "ZxO6jrlQJXIAAC4CAB4eVQAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1760882204.891266,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "322",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1737122204.720849,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "322",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1737122204.891361,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "value": "x6XcKl9CMHp2ZGMlMkJvUXBnSlBKeHN4bm5QbVpSaXo0MXoxenRmV2xXUGtQSHVLdFJvWHM2RjkxWkE2NVhKdE9hazhGNUdmQkZrWDlYVGltWnhDb3UlMkJWZjZPWExQUHVZVU9HRGpoNlJnNFgwRU1aUWVqWlROOVY4NEs4UnAlMkZnNkhqRzViOTFHNWhzMHZVS2dzSDI2WW5CdnlOdlElM0QlM0Q",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1763042204.732799,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1763042204.732899,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UID",
+      "value": "0b23607bfaf48e1bd691655bbf5392",
+      "domain": ".ads.stickyadstv.com",
+      "path": "/",
+      "expires": 1731938204.858297,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid-bp-11554",
+      "value": "k-fzY3MnryXMllPyG26jvsJkerBKI2SrTKdANPXA",
+      "domain": ".ads.stickyadstv.com",
+      "path": "/",
+      "expires": 1734530204.858371,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1729951006.077209,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitor-id",
+      "value": "3723477917788777000V10",
+      "domain": ".media.net",
+      "path": "/",
+      "expires": 1760882205.079886,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "data-c-ts",
+      "value": "1729346191",
+      "domain": ".media.net",
+      "path": "/",
+      "expires": 1731938205.079991,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "data-c",
+      "value": "k-1AkWE3ryXMllPyG26jvsJkerBKLDCuG4JMs_xw~~3",
+      "domain": ".media.net",
+      "path": "/",
+      "expires": 1731938205.080036,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id5",
+      "value": "0adf4b19-bf78-79d0-8ded-262b69a77afc#1729346191006#2",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1737122205.084097,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "demdex",
+      "value": "58457802399770414633871594437025834599",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1744898206.386771,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mv_tokens",
+      "value": "%7B%22mv_uuid%22%3A%22f1a74170-8e21-11ef-bc67-2973f8de83b3%22%2C%22version%22%3A%22eu-v1%22%7D",
+      "domain": "exchange.mediavine.com",
+      "path": "/",
+      "expires": 1730555805.160907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mv_tokens_eu-v1",
+      "value": "%7B%22mv_uuid%22%3A%22f1a74170-8e21-11ef-bc67-2973f8de83b3%22%2C%22version%22%3A%22eu-v1%22%7D",
+      "domain": "exchange.mediavine.com",
+      "path": "/",
+      "expires": 1730555805.160978,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "am_tokens",
+      "value": "%7B%22mv_uuid%22%3A%22f1a74170-8e21-11ef-bc67-2973f8de83b3%22%2C%22version%22%3A%22eu-v1%22%7D",
+      "domain": "exchange.mediavine.com",
+      "path": "/",
+      "expires": 1730555805.161016,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "am_tokens_eu-v1",
+      "value": "%7B%22mv_uuid%22%3A%22f1a74170-8e21-11ef-bc67-2973f8de83b3%22%2C%22version%22%3A%22eu-v1%22%7D",
+      "domain": "exchange.mediavine.com",
+      "path": "/",
+      "expires": 1730555805.161046,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "criteo",
+      "value": "%7B%22id%22%3A%22k-qbvctXryXMllPyG26jvsJkerBKJ9TfzDEAnTuw%22%2C%22version%22%3A%22criteo%22%7D",
+      "domain": "exchange.mediavine.com",
+      "path": "/",
+      "expires": 1730555805.16108,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpm",
+      "value": "58457802399770414633871594437025834599",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1744898206.386679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_97",
+      "value": "3385-uid:k-S09e7HryXMllPyG26jvsJkerBKLIfTQz4TWpuw&KRTB&23037-uid:k-S09e7HryXMllPyG26jvsJkerBKLIfTQz4TWpuw&KRTB&23144-uid:k-S09e7HryXMllPyG26jvsJkerBKLIfTQz4TWpuw&KRTB&23286-uid:k-S09e7HryXMllPyG26jvsJkerBKLIfTQz4TWpuw",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1731938205.245846,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1729346190",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1731938205.245916,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4/rCxrEQF']wIg2C')jdL6N!]tbPl@/D!9hy6]/CwgO4^)b-^Kf7s5cbzKigZyv]2xw*7462Sl]DoqYACP%kCh]XBgQ/daO/O!%nugO%v4VB%nr3k+i67E",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1737122205.254561,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "7529a270-e6ac-40b2-9f84-37f9ce7127ca",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1737122205.266512,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1729346191",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1737122205.266589,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos",
+      "value": "M2G82L7K-14-34QW",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1760882205.328017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "M2G82L7K-14-34QW",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1760882205.328046,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1737122205.328097,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1729346191347",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1734530205.455846,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "0d516724-9ac3-4297-99e2-d97756ea3fe2",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1734530205.455927,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitor",
+      "value": "fb6d8430-6b6e-421c-a814-3e4e0eeca4fb",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1760882205.432076,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "status",
+      "value": "0",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1760882205.4322,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tt_viewer",
+      "value": "6873f14f-c57c-43ae-839a-f6b6af4e3f65",
+      "domain": ".teads.tv",
+      "path": "/",
+      "expires": 1760795805.434426,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "um",
+      "value": "!38,T9SP7wurL3TjuK8wZzCUTt-Do38eKucq80Dc211wHIQQc907kl5X4qA5QhFerSXCl1spoKx-,1737122191",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1737122205.440169,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "umeh",
+      "value": "!38,0,1791554191,-1",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1737122205.440413,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1734530205.455964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_dc",
+      "value": "1",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1752671234.539351,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "value": "252b00ffb738c9912190345ca0f27d31",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1752671234.539441,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluidp",
+      "value": "3290800973765648204508",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1737122205.654505,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluid",
+      "value": "3290800973765648204508",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1737122205.654573,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "forterToken",
+      "value": "01f6f9c830b44c3ab728d6b91b162131_1729346203346__UDF43-m4_11ck_",
+      "domain": ".farfetch.com",
+      "path": "/",
+      "expires": 1763906205,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tvid",
+      "value": "5935446183704a58b8c14edf003c383e",
+      "domain": ".tremorhub.com",
+      "path": "/",
+      "expires": 1760903105.756301,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tv_UICR",
+      "value": "k-976RMXryXMllPyG26jvsJkerBKKzkhzTUimSNQ",
+      "domain": ".tremorhub.com",
+      "path": "/",
+      "expires": 1731938205.756482,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yieldmo_id",
+      "value": "VeYPvDHbbPHhyGjMRcEv%7C1729296000000%7C0",
+      "domain": ".yieldmo.com",
+      "path": "/",
+      "expires": 1760882205.993353,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ptrcriteo",
+      "value": "k-T3zmFnryXMllPyG26jvsJkerBKJORHUzS2FZ1Q",
+      "domain": ".ads.yieldmo.com",
+      "path": "/",
+      "expires": 1760882205.993424,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|Eyq7DSF9hRjE6VvGV9IL8ecbtZEXs1F90OtJ6u4+QcOpsxpUkNGBpPR5w9i9C/FZjjXESort5cYwHTRO1/p4iCck1N7K9KkV0dqlR5NoluSCD9zFQIvrTUSTg9MygFSsC1oujFTkX60NFqjLEzdcHsadUni8+CUWu/tMtTCn+M116h2LKXkYaJDy+KCnXKr4N6JXMcYuiJM=",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1760882206.095087,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit",
+      "value": "1|Eyq7DSF9hRjE6VvGV9IL8ecbtZEXs1F90OtJ6u4+QcOpsxpUkNGBpPR5w9i9C/FZjjXESort5cYwHTRO1/p4iCck1N7K9KkV0dqlR5NoluSCD9zFQIvrTUSTg9MygFSsC1oujFTkX60NFqjLEzdcHsadUni8+CUWu/tMtTCn+M116h2LKXkYaJDy+KCnXKr4N6JXMcYuiJM=",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1760882206.095231,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_rxuuid",
+      "value": "%7B%22rx_uuid%22%3A%22RX-72118537-7ccf-4a88-877d-9a8e820229ef-004%22%7D",
+      "domain": ".1rx.io",
+      "path": "/",
+      "expires": 1760882206.330241,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "3pi",
+      "value": "19#1729346191617#-1503648218#252b00ffb738c9912190345ca0f27d31|485#1729346192478#-1921205896|966#1729346191085#-1620237373|285#1729346192173#-1790550584#M2G82L7K-14-34QW",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1737122206.477005,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_rxuuid",
+      "value": "%7B%22rx_uuid%22%3A%22RX-72118537-7ccf-4a88-877d-9a8e820229ef-004%22%7D",
+      "domain": ".targeting.unrulymedia.com",
+      "path": "/",
+      "expires": 1760882207.330122,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.farfetch.com",
+      "localStorage": [
+        {
+          "name": "feh--30cb83",
+          "value": "0001729346204049d2c878cfb3c1bdb1ba8e6d7d2f6885fc"
+        },
+        {
+          "name": "feh--330df5",
+          "value": "0001729346204050b47a77a26dff4906809ed02f6578932c"
+        },
+        {
+          "name": "ftr__sf",
+          "value": "{\"et\":1729346199612,\"rc\":99,\"us\":\"01f6f9c830b44c3ab728d6b91b162131\"}"
+        },
+        {
+          "name": "feh--9fd29358",
+          "value": "0001729346199081cce16c45e622d9ceae4b626c9353ecec"
+        },
+        {
+          "name": "lastRskxRun",
+          "value": "{\"value\":1729346203424,\"expiration_date\":\"Mon, 19 Oct 2026 13:56:43 GMT\"}"
+        },
+        {
+          "name": "rCookie",
+          "value": "{\"value\":\"5ybbqj5wy7i9trh9hzhomrm2g82qzo\",\"expiration_date\":\"Mon, 19 Oct 2026 13:56:45 GMT\"}"
+        },
+        {
+          "name": "f3b83c8e592aef14c2204ee437d40785",
+          "value": "131261o19o6q827on3p44o038p9s6s10"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Thu, 13 Nov 2025 13:56:43 GMT"
+        },
+        {
+          "name": "feh--c52",
+          "value": "0001729346207113cba6ba0ec5bc4f0312dbebed0c7556bf"
+        },
+        {
+          "name": "existing_subscription_login",
+          "value": "success"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Sun, 20 Oct 2024 13:56:43 GMT"
+        },
+        {
+          "name": "feh--1b2b8",
+          "value": "000172934620719095b03616099dde089e3f676a90eb7ed0"
+        },
+        {
+          "name": "UniqueViewId_https://www.farfetch.com/sa",
+          "value": "{\"id\":\"5b746ebb-df6d-45d8-a7b6-b719dec3dc64-1729346196762\",\"expires\":28823876}"
+        },
+        {
+          "name": "_uetsid",
+          "value": "f642fe608e2111ef813c193f58b44f3c"
+        },
+        {
+          "name": "__cuid",
+          "value": "f153d3700003451991a43c86aa1bb03b"
+        },
+        {
+          "name": "feh--8ff2b28",
+          "value": "00017293461995136f7bbbd0e113e1fb8fcaaa6b0332e5f1"
+        },
+        {
+          "name": "feh--6bc5339",
+          "value": "00017293462003803b870f3ea0bcd5f06cd66d0b818eeacb"
+        },
+        {
+          "name": "feh--19c44",
+          "value": "0001729346204055338daff3c14e29811b01d28f9e0331c0"
+        },
+        {
+          "name": "forterToken",
+          "value": "01f6f9c830b44c3ab728d6b91b162131,1729346205651"
+        },
+        {
+          "name": "cto_bundle",
+          "value": "EznbN19TRFZ6SUhrZ24lMkYwQ2doUVpPY2FpemRvNGRhc0ExODRKJTJGSDUlMkZOQ1RzZ2dQTEVhWWFjcFR5b2FhY25TVEgwYmpDM0N6RzZ1UlZFNk14a2RuWlp1RDN5cGtaWUtvRFJ5eDMyNkd6Q1pNdXMySGxSWEtROVMlMkJuR1Zhc2xUU01kMkdTcmRIbTBvV1Nhb25GMzh0Q2RZaVk3OVZWVDgzJTJCOHVGb0dSOUo3MURnZWRNJTNE"
+        },
+        {
+          "name": "feh--1bc22",
+          "value": "00017293461996119d269fc2cdc75c9a0c481f3812d90a20"
+        },
+        {
+          "name": "rskxRunCookie",
+          "value": "{\"value\":0,\"expiration_date\":\"Mon, 19 Oct 2026 13:56:43 GMT\"}"
+        },
+        {
+          "name": "userHasTransacted",
+          "value": "0"
+        },
+        {
+          "name": "userHasLoggedIn",
+          "value": "1"
+        },
+        {
+          "name": "feh--37d28a",
+          "value": "0001729346200081d68d46e579c818d3a381579b41ce134b"
+        },
+        {
+          "name": "feh--1bda6",
+          "value": "000172934619994528a08d715b181995c9706380f5fec9e5"
+        },
+        {
+          "name": "feh--e3a677a0",
+          "value": "0001729346199514a1b87221a13b15123b1c8b79a866f388"
+        },
+        {
+          "name": "feh--da4",
+          "value": "0001729346200110b405c436b7ac5a2c7e6ba9d6dd28ae99"
+        },
+        {
+          "name": "adbws_marker",
+          "value": "1729346199596"
+        },
+        {
+          "name": "UniqueViewId_https://www.farfetch.com/sa?v=513b6a98-1d9e-4f7d-9892-d573a76ff917",
+          "value": "{\"id\":\"1d1d94ba-b0c6-4866-91a6-fe22a58ecd51-1729346203205\",\"expires\":28823876}"
+        },
+        {
+          "name": "_uetvid",
+          "value": "f64322808e2111ef8340f9c289ce18b7"
+        }
+      ]
+    }
+  ]
+}
